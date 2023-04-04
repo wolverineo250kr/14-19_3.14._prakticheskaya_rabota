@@ -16,6 +16,7 @@ ___
 6. [git status](./status.md)
 7. [git rm](./rm.md)
 8. [git mv](./mv.md)
+8. [Разрешение конфликта](./conflict.md)
 
 ___
 
