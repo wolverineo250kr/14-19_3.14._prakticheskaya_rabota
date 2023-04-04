@@ -15,6 +15,8 @@ ___
 5. [git checkout](./checkout.md)
 6. [git status](./status.md)
 7. [git rm](./rm.md)
+8. [git mv](./mv.md)
+
 ___
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [Cc BY 3.0] ( https://creativecommons.org/licenses/by/
